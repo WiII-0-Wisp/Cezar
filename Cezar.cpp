@@ -76,7 +76,7 @@ int main()
 			}
 			cout << endl << s << endl;
 		} else {
-			cout << "Некорректные данные, попробуйте снова." << endl;
+			cout << "Некорректные данные." << endl;
 		}
 	return 0;
 }
